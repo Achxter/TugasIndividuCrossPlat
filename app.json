@@ -15,6 +15,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.crossplatform.TugasIndividuCrossPlat",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -22,6 +23,19 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "ProductSans-Regular": "./assets/fonts/ProductSans-Regular.ttf"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "59cb2cb9-7efe-43a2-a065-ad2feba5a99a"
+      }
     }
   }
 }

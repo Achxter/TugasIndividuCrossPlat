@@ -1,0 +1,396 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "sender": {
+        "email": "john.doe@example.com",
+        "username": "John Doe"
+      },
+      "recipient": "you@example.com",
+      "subject": "Meeting Reminder",
+      "body": "Just a friendly reminder about our meeting tomorrow at 10 AM.",
+      "timestamp": "2024-10-08T09:30:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Work"
+      ]
+    },
+    {
+      "id": 2,
+      "sender": {
+        "email": "jane.smith@example.com",
+        "username": "Jane Smith"
+      },
+      "recipient": "you@example.com",
+      "subject": "Project Update",
+      "body": "I’ve made some updates to the project proposal. Please review and let me know your thoughts.",
+      "timestamp": "2024-10-07T14:15:00",
+      "is_read": true,
+      "is_starred": true,
+      "labels": [
+        "Important",
+        "Work"
+      ]
+    },
+    {
+      "id": 3,
+      "sender": {
+        "email": "newsletter@shopnow.com",
+        "username": "ShopNow Newsletter"
+      },
+      "recipient": "you@example.com",
+      "subject": "Exclusive Offer Just for You!",
+      "body": "Enjoy 25% off on your next purchase with the promo code SAVE25.",
+      "timestamp": "2024-10-06T08:45:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Promotions"
+      ]
+    },
+    {
+      "id": 4,
+      "sender": {
+        "email": "susan.jones@corpinc.com",
+        "username": "Susan Jones"
+      },
+      "recipient": "you@example.com",
+      "subject": "Quarterly Financial Report",
+      "body": "The Q3 financial report is attached. Please review it before the meeting on Friday.",
+      "timestamp": "2024-10-05T16:30:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Finance",
+        "Work"
+      ]
+    },
+    {
+      "id": 5,
+      "sender": {
+        "email": "tech.support@yourhosting.com",
+        "username": "Your Hosting Support"
+      },
+      "recipient": "you@example.com",
+      "subject": "Server Downtime Notification",
+      "body": "We are experiencing temporary server downtime. Our engineers are working on the issue.",
+      "timestamp": "2024-10-05T11:00:00",
+      "is_read": false,
+      "is_starred": true,
+      "labels": [
+        "Support",
+        "Work"
+      ]
+    },
+    {
+      "id": 6,
+      "sender": {
+        "email": "chris.evans@celebritynews.com",
+        "username": "Chris Evans"
+      },
+      "recipient": "you@example.com",
+      "subject": "Behind the Scenes of the Latest Movie",
+      "body": "Get an exclusive behind-the-scenes look at the making of the latest blockbuster film!",
+      "timestamp": "2024-10-04T13:45:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Entertainment",
+        "Promotions"
+      ]
+    },
+    {
+      "id": 7,
+      "sender": {
+        "email": "notifications@bankcorp.com",
+        "username": "BankCorp Notifications"
+      },
+      "recipient": "you@example.com",
+      "subject": "Suspicious Activity on Your Account",
+      "body": "We detected suspicious activity on your account. Please log in to verify your transactions.",
+      "timestamp": "2024-10-03T09:50:00",
+      "is_read": true,
+      "is_starred": true,
+      "labels": [
+        "Important",
+        "Finance"
+      ]
+    },
+    {
+      "id": 8,
+      "sender": {
+        "email": "lisa.brown@travelworld.com",
+        "username": "Lisa Brown"
+      },
+      "recipient": "you@example.com",
+      "subject": "Travel Discount on Your Next Vacation",
+      "body": "Get up to 30% off on selected vacation packages! Don’t miss out on this limited-time offer.",
+      "timestamp": "2024-10-02T12:20:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Travel",
+        "Promotions"
+      ]
+    },
+    {
+      "id": 9,
+      "sender": {
+        "email": "admin@fitnessworld.com",
+        "username": "Fitness World Admin"
+      },
+      "recipient": "you@example.com",
+      "subject": "Your Fitness Plan for the Month",
+      "body": "Here’s your updated fitness plan for this month. Keep up the great work!",
+      "timestamp": "2024-10-02T08:35:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Health",
+        "Work"
+      ]
+    },
+    {
+      "id": 10,
+      "sender": {
+        "email": "emily.taylor@techevents.com",
+        "username": "Emily Taylor"
+      },
+      "recipient": "you@example.com",
+      "subject": "Invitation to Tech Expo 2024",
+      "body": "You are invited to attend the Tech Expo 2024! Register now to secure your spot.",
+      "timestamp": "2024-10-01T10:00:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Events",
+        "Work"
+      ]
+    },
+    {
+      "id": 11,
+      "sender": {
+        "username": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Meeting Reminder",
+      "body": "Just a friendly reminder about our meeting tomorrow at 10 AM.",
+      "timestamp": "2024-10-08T09:30:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Work"
+      ]
+    },
+    {
+      "id": 12,
+      "sender": {
+        "username": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Project Update",
+      "body": "I’ve made some updates to the project proposal. Please review and let me know your thoughts.",
+      "timestamp": "2024-10-07T14:15:00",
+      "is_read": true,
+      "is_starred": true,
+      "labels": [
+        "Important",
+        "Work"
+      ]
+    },
+    {
+      "id": 13,
+      "sender": {
+        "username": "newsletter",
+        "email": "newsletter@shopnow.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Exclusive Offer Just for You!",
+      "body": "Enjoy 25% off on your next purchase with the promo code SAVE25.",
+      "timestamp": "2024-10-06T08:45:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Promotions"
+      ]
+    },
+    {
+      "id": 14,
+      "sender": {
+        "username": "Michael Williams",
+        "email": "michael.williams@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Invoice for September",
+      "body": "Please find attached the invoice for September’s services.",
+      "timestamp": "2024-10-05T16:00:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Finance",
+        "Work"
+      ]
+    },
+    {
+      "id": 15,
+      "sender": {
+        "username": "Linda Jones",
+        "email": "linda.jones@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Event Invitation",
+      "body": "You are invited to the annual corporate event happening next Friday at 7 PM.",
+      "timestamp": "2024-10-04T11:20:00",
+      "is_read": false,
+      "is_starred": true,
+      "labels": [
+        "Work",
+        "Events"
+      ]
+    },
+    {
+      "id": 16,
+      "sender": {
+        "username": "support",
+        "email": "support@webhosting.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Scheduled Maintenance Notification",
+      "body": "Our servers will be undergoing scheduled maintenance on October 10th from 2 AM to 6 AM.",
+      "timestamp": "2024-10-03T07:30:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Technical",
+        "Notifications"
+      ]
+    },
+    {
+      "id": 17,
+      "sender": {
+        "username": "Alex Brown",
+        "email": "alex.brown@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Collaboration Request",
+      "body": "I’d love to collaborate with you on a new project. Let’s schedule a call to discuss.",
+      "timestamp": "2024-10-02T09:45:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Work",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": 18,
+      "sender": {
+        "username": "Emma Clark",
+        "email": "emma.clark@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Newsletter - October 2024",
+      "body": "Welcome to our October newsletter! Here’s what’s new...",
+      "timestamp": "2024-10-01T08:10:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Newsletters",
+        "Promotions"
+      ]
+    },
+    {
+      "id": 19,
+      "sender": {
+        "username": "Mark Jones",
+        "email": "mark.jones@example.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Meeting Recap",
+      "body": "Here’s the recap of the meeting we had earlier today.",
+      "timestamp": "2024-09-30T18:30:00",
+      "is_read": true,
+      "is_starred": false,
+      "labels": [
+        "Work"
+      ]
+    },
+    {
+      "id": 20,
+      "sender": {
+        "username": "shopping.alerts",
+        "email": "alerts@shoppingzone.com"
+      },
+      "recipient": "you@example.com",
+      "subject": "Sale on Electronics!",
+      "body": "Don't miss out on the biggest sale of the season. Up to 50% off on electronics.",
+      "timestamp": "2024-09-29T13:20:00",
+      "is_read": false,
+      "is_starred": false,
+      "labels": [
+        "Promotions"
+      ]
+    }
+  ],
+  "drawer": {
+    "sections": [
+      {
+        "icon": "star-outline",
+        "label": "Starred",
+        "count": 3,
+        "is_active": false
+      },
+      {
+        "icon": "label-outline",
+        "label": "Important",
+        "count": 5,
+        "is_active": false
+      },
+      {
+        "icon": "send-outline",
+        "label": "Sent",
+        "count": 5,
+        "is_active": false
+      },
+      {
+        "icon": "send-clock-outline",
+        "label": "Scheduled",
+        "count": 2,
+        "is_active": false
+      },
+      {
+        "icon": "send-circle-outline",
+        "label": "Outbox",
+        "count": 2,
+        "is_active": false
+      },
+      {
+        "icon": "file-outline",
+        "label": "Drafts",
+        "count": 2,
+        "is_active": false
+      },
+      {
+        "icon": "email-multiple-outline",
+        "label": "All mail",
+        "count": 2,
+        "is_active": false
+      },
+      {
+        "icon": "exclamation",
+        "label": "Spam",
+        "count": 8,
+        "is_active": false
+      },
+      {
+        "icon": "trash-can-outline",
+        "label": "Bin",
+        "count": 0,
+        "is_active": false
+      }
+    ]
+  }
+}
