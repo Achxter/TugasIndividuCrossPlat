@@ -19,11 +19,11 @@ This project is a mobile application that replicates the functionality of Gmail,
 4. **Run the app**
 
 ## Screenshots
-![Inbox Page Original](screenshots/ReferensiAplikasi%20(1).png)
+![Inbox Page Original](screenshots/ReferensiAplikasi%20(1).jpg)
 ![Inbox Page Replica](screenshots/HasilReplika%20(1).png)
 
-![Drawer Original](screenshots/ReferensiAplikasi%20(2).png)
+![Drawer Original](screenshots/ReferensiAplikasi%20(2).jpg)
 ![Drawer Replica](screenshots/HasilReplika%20(2).png)
 
-![Search Page Original](screenshots/ReferensiAplikasi%20(3).png)
+![Search Page Original](screenshots/ReferensiAplikasi%20(3).jpg)
 ![Search Page Replica](screenshots/HasilReplika%20(3).png)
